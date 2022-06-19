@@ -13,10 +13,6 @@
     {
       "src": "/(.*)",
       "dest": "index.js"
-    },
-    {
-      "src": "robots.txt",
-      "dest": "files/robots.txt"
     }
   ]
 }
