@@ -13,10 +13,12 @@
     {
       "src": "/(.*)",
       "dest": "index.js"
-    },
-    {
-      "src": "/robots.txt",
-      "dest": "robots.txt"
     }
+  ],
+  "redirects": [
+      {
+          "source": "/robots.txt",
+          "destination": "/robots.txt"
+      }
   ]
 }
